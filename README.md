@@ -1,0 +1,2 @@
+# Diamond-Price-Predication
+The case study is created around the context of Greg Millers’ search for a perfect diamond, with which he will use to propose to Sarah Staggers. Greg believes that it is both romantic and essential to be well-informed about the quality and true value of the diamond. Therefore, the main case’ purpose is to help Greg optimize his purchase decision by looking at several factors defining diamond’s quality and therefore, identify if the diamond he chooses is underpriced or not.  
